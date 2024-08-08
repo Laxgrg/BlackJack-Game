@@ -20,3 +20,8 @@ Rules
 
 3. Winning:
     * A hand value of 21 wins with Blackjack.
+
+
+Added url in Netlify 
+
+https://bj-game.netlify.app/
