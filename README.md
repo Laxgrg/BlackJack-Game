@@ -22,6 +22,6 @@ Rules
     * A hand value of 21 wins with Blackjack.
 
 
-"I've deployed it on Netlify! Here is the url...
+Deployed it on Netlify! Here is the url...
 
 https://bj-game.netlify.app/
