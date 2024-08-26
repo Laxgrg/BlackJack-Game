@@ -1,6 +1,6 @@
 Blackjack Game
 
-Overview
+
 Blackjack is a card game where players aim to get a hand value of exactly 21 or as close as possible without going over. The game is played against the dealer, and getting 21 is known as a Blackjack.
 
 Objectives
